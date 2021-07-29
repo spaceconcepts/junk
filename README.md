@@ -1,2 +1,3 @@
 # junk
-A kind of conceptual space or just another.  However, a nice one.
+
+A kind of conceptual time space or just another timechain blockchain. However, a nice one.
