@@ -1,2 +1,3 @@
 # junk
-A kind of conceptual space or just another.  However, a nice one.
+
+A kind of time conceptual space or just another timechain. However, a nice one.
